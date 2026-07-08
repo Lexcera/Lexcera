@@ -1,6 +1,6 @@
 # Olá, me chamo Marcus Vinicius Macedo👋
 
-🎯 Estudando Análise e desenvolvimento de dados
+🎯 Formado em análise e desenvolvimento de sistemas
 
 ## Tecnologias que estou estudando
 - SQL
